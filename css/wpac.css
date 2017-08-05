@@ -1,0 +1,218 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30 août 2014, 22:19:32
+    Author     : Aloysius
+*/
+    .movietitle {
+        display: inline-block;
+	width: 100%;     
+        padding: 0;
+        margin: 0;
+        vertical-align: top;
+        text-align: center;
+        font-size: 1.5em;
+        line-height:1.7em;
+        background-color: lightgrey;
+    }
+    .movietext {
+        display: inline-block;
+	width: 56%;     
+        padding: 0;
+        margin: 2%;
+         vertical-align: top;
+        text-align: justify;
+    }
+    .movieline{
+        display: block;
+        width: 100%;
+        padding: 0;
+        margin: 0 0 0.4em 0;
+        vertical-align: center;
+    }
+    .movieimg{
+        display: inline-block;
+        width:38%;
+        padding: 0;
+        margin: 1%;
+    }
+    .movieimg img{
+        padding: 0;
+        margin: 0;
+        width: 100%;
+        height: 100%;
+    }
+    .moviedata{
+        font-weight: bold;
+    }
+    .moviedatatab{
+        display: inline-block;
+        font-weight: bold;
+        width: 8.5em;
+    }
+    .moviewrap{
+        background-color: #eeeeee;
+    }
+    
+    
+    .movietitle_s {
+        display: inline-block;
+	width: 100%;     
+        padding: 0;
+        margin: 0;
+        vertical-align: top;
+        text-align: center;
+        font-size: 1.5em;
+        line-height:1.7em;
+        background-color: lightgrey;
+    }
+    .movietext_s {
+        display: inline-block;
+	width: 78%;     
+        padding: 0;
+        margin: 1%;
+        vertical-align: top;
+        text-align: justify;
+    }
+    .movieline_s{
+        display: block;
+        width: 100%;
+        padding: 0;
+        margin: 0 0 0.4em 0;
+    }
+    .movieimg_s{
+        display: inline-block;
+        width:18%;
+        padding: 0;
+        margin: 1%;
+    }
+    .movieimg_s img{
+        padding: 0;
+        margin: 0;
+        width: 100%;
+        height: 100%;
+    }
+    .moviedata_s{
+        font-weight: bold;
+    }
+    .moviedatatab_s{
+        display: inline-block;
+        font-weight: bold;
+        width: 8.5em;
+    }
+    .moviewrap_s{
+        background-color: #aaaaaa;
+    }
+
+    .movietitle_t {
+        display: inline-block;
+	width: 100%;     
+        padding: 0;
+        margin: 0;
+        vertical-align: top;
+        text-align: center;
+        font-size: 1.5em;
+        line-height:1.7em;
+        background-color: lightgrey;
+    }
+    .movietext_t {
+        display: inline-block;
+	width: 84%;     
+        padding: 0;
+        margin: 1%;
+        vertical-align: top;
+        text-align: justify;
+    }
+    .movieline_t{
+        display: block;
+        width: 100%;
+        padding: 0;
+        margin: 0 0 0.4em 0;
+    }
+    .movieimg_t{
+        display: inline-block;
+        width:12%;
+        padding: 0;
+        margin: 1%;
+    }
+    .movieimg_t img{
+        padding: 0;
+        margin: 0;
+        width: 100%;
+        height: 100%;
+    }
+    .moviedata_t{
+        font-weight: bold;
+    }
+    .moviedatatab_t{
+        display: inline-block;
+        font-weight: bold;
+        width: 7em;
+    }
+    .moviewrap_t{
+        background-color: #aaaaaa;
+    }
+    
+.customwrap{
+    display: inline-block;
+    width:100%;
+    height: auto;
+    background-color: #eeeeee;
+}
+.customleft{
+    display: block;
+    float: left;
+    width: 25%;
+    padding: 1%;
+    margin: 0;
+    background-color: grey;
+}
+.custommiddle{
+    display: block;
+    float: left;
+    width: 25%;    
+    padding: 1%;
+    margin: 0;
+}
+.customright{
+    display: block;
+    float: left;
+    width: 25%;    
+    padding: 1%;
+    margin: 0;
+}
+.customimg{
+    display: inline-block;
+    padding: 1%;
+    margin: 0;
+    background-color: grey;
+}
+.customtitle {
+    display: inline-block;
+    width: 100%;     
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    text-align: center;
+    font-size: 1.5em;
+    line-height:1.7em;
+    background-color: lightgrey;
+}
+.customline{
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0 0 0.4em 0;
+    vertical-align: center;
+}
+.customdata{
+    font-weight: bold;
+}
+.customdatatab{
+    display: inline-block;
+    font-weight: bold;
+    width: 8.5em;
+}

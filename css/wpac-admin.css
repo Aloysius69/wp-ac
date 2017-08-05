@@ -1,0 +1,124 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 oct. 2014, 11:42:52
+    Author     : Aloysius
+*/
+
+
+.wrap p.tabs, p.black {
+	width: 15em;
+	font-weight: bold;
+	float: left;
+	margin: 0.2em 0 0.2em 0;
+	padding: 0;
+}
+.wrap p.tabs, p.black {
+	margin: 0.2em 0 0.2em 2em;
+}
+.wrap p.tabsi {
+	width: 15em;
+	font-style: italic;
+	float: left;
+	margin: 0.2em 0 0.2em 2em;
+	padding: 0;
+}
+
+.wrap br {
+	clear: both;
+}
+p.submit {
+	margin-left: 75%;
+}
+p.white {
+	width: 150px;
+	font-weight: bold;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+.wrap span {
+	font-style: italic;
+}
+p.title {
+	width: 100%;
+	font-size: 1.1em;
+	font-weight: bold;
+	background-color: #DDD;
+	padding: 3px 0 3px 5px;
+	margin: 0 0 0.5em 0;
+}
+p.title:hover, #basicoptions:hover, #advancedoptions:hover {cursor: pointer;}
+p.smalltitle {
+	font-size: 0.8em;
+	padding: 1px 0 1px 5px;
+	margin: 0;
+}
+p.info {
+	width: 100%;
+	background-color: #f6f6f6;
+	padding: 3px 5px;
+	margin: 0;
+}
+p#basicoptions, p#advancedoptions {
+  	background-color: transparent;
+	padding: 3px 5px;
+	margin: 0 0 10px 0;
+	display: inline;
+}
+p#basicoptions {
+  	background-color: #0D324F;
+  	color: white;
+}
+.advanced {  }
+.selected { background-color: #FF0000; }
+
+.wps_cell {
+    font-size: 0.8em;
+    padding: 0.1em 0.2em 0.1em 0.2em;
+}
+
+.header {
+    width: 170px;
+    float: left;
+    padding-bottom: 20px;
+    font-size: 0.8em;
+}
+.column {
+    width: 170px;
+    float: left;
+    padding-bottom: 100px;
+    font-size: 0.8em;
+}
+.portlet {
+    margin: 0 1em 1em 0;
+    padding: 0.3em;
+}
+.portlet-header {
+    padding: 0.2em 0.3em;
+    margin-bottom: 0.5em;
+    position: relative;
+}
+.portlet-toggle {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    margin-top: -8px;
+}
+.portlet-content {
+    padding: 0.4em;
+}
+.portlet-placeholder {
+    border: 1px dotted black;
+    margin: 0 1em 1em 0;
+    height: 50px;
+}
+.portlet-content-label{
+      font-weight: bold;
+}  
+#stack{
+      clear: left;
+}

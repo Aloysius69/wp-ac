@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-ac\n"
+"POT-Creation-Date: 2014-10-19 00:56+0100\n"
+"PO-Revision-Date: 2014-10-19 01:04+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inc-acc/wpac-admin.php:71 ../inc-acc/wpac-admin.php:72
+msgid "WP AC"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:100
+msgid "Click to hide and show"
+msgstr "Cliquer pour faire appaître ou disparaître"
+
+#: ../inc-acc/wpac-admin.php:138
+msgid "Update error:"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:138
+msgid "Settings saved"
+msgstr "Options sauvegardées"
+
+#: ../inc-acc/wpac-admin.php:140
+msgid "Leave default settings if you're unsure of what to set."
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:157
+msgid "Design the custom Allocine display."
+msgstr "Dessiner l'affichage personnalisé."
+
+#: ../inc-acc/wpac-admin.php:165
+msgid "Edit data inline."
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:232
+msgid "Elements to insert"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:239 ../inc-acc/wpac-functions.php:120
+msgid "Width:"
+msgstr "Largeur  :"
+
+#: ../inc-acc/wpac-admin.php:298
+msgid "Id:"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:299
+msgid "Name:"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:300
+msgid "File:"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:351
+msgid "New Version available: "
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:352
+msgid ""
+"The server reports that a new wp-ac Version is now available. Please visit "
+"the plugin homepage for more information."
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:353
+msgid "Version number: "
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:357
+msgid "Click to view basic options only."
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:357
+msgid "Basic options"
+msgstr "Options de base"
+
+#: ../inc-acc/wpac-admin.php:358
+msgid "Click to view advanced options."
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:358
+msgid "Advanced options"
+msgstr "Options avancées"
+
+#: ../inc-acc/wpac-admin.php:359 ../inc-acc/wpac-admin.php:416
+msgid "Update"
+msgstr "Mise à jour"
+
+#: ../inc-acc/wpac-admin.php:362
+msgid "Location settings"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:365
+msgid "Font family"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:367
+msgid "Choose font family to use in chart."
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:369
+#, fuzzy
+msgid "Title Font"
+msgstr "Titre"
+
+#: ../inc-acc/wpac-admin.php:371
+msgid "Size of the font title in percent of the chart width. Default is 5%."
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:376
+msgid "Some settings"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:379
+msgid "Use IMDb backup:"
+msgstr "Utiliser IMDb en relais : "
+
+#: ../inc-acc/wpac-admin.php:381
+msgid "Check if you want to use IMDb as a backup if Allocine is not available."
+msgstr ""
+"Cocher si vous voulez utiliser IMDb en relais si Allociné ne fonctionne plus."
+
+#: ../inc-acc/wpac-admin.php:383
+msgid "Reset custom design:"
+msgstr "Réinitialiser l'affichage personnalisé"
+
+#: ../inc-acc/wpac-admin.php:385
+msgid "Check if you want to reset your customized display."
+msgstr "Cocher pour réinitialiser l'affichage personnalisé."
+
+#: ../inc-acc/wpac-admin.php:391
+msgid "System check"
+msgstr "Vérifications système"
+
+#: ../inc-acc/wpac-admin.php:394
+msgid "PHP version"
+msgstr "Version PHP"
+
+#: ../inc-acc/wpac-admin.php:397
+msgid "Remote files"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:398
+msgid "Retrieve remote file is OK"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:398
+msgid "Retrieve remote file is OK using cURL"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:398
+msgid "Retrieve remote file not allowed on this server."
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:399
+msgid "Dealing with remote file also requires php 4.3.0 or later"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:401
+msgid "Safe mode"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:402
+msgid "Safe mode on"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:402
+msgid "Safe mode off"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:404
+msgid "Memory limit"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:405
+msgid "Cannot Retrieve memory limit"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:407
+msgid "Memory usage"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:408
+msgid "Function memory_get_usage available"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:408
+msgid "Function memory_get_usage not available"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:410
+msgid "Set Memory limit"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:411
+msgid "Memory cannot be set"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:411
+msgid "Memory can be set"
+msgstr ""
+
+#: ../inc-acc/wpac-admin.php:430
+msgid "WP-AC Options"
+msgstr ""
+
+#: ../inc-acc/wpac-display.class.php:122 ../inc-acc/wpac-display.class.php:202
+#: ../inc-acc/wpac-display.class.php:254
+msgid "Season"
+msgstr "Saison"
+
+#: ../inc-acc/wpac-display.class.php:122 ../inc-acc/wpac-display.class.php:202
+#: ../inc-acc/wpac-display.class.php:254
+msgid "Ep."
+msgstr "Ep."
+
+#: ../inc-acc/wpac-display.class.php:131
+msgid "Episode title"
+msgstr "Titre de l'épisode"
+
+#: ../inc-acc/wpac-display.class.php:132 ../inc-acc/wpac-display.class.php:203
+msgid "Broadcast"
+msgstr "Diffusion"
+
+#: ../inc-acc/wpac-display.class.php:133
+msgid "Director"
+msgstr "Réalisateur"
+
+#: ../inc-acc/wpac-display.class.php:136 ../inc-acc/wpac-display.class.php:201
+#: ../inc-acc/wpac-display.class.php:212
+msgid "Series title"
+msgstr "Titre de la série"
+
+#: ../inc-acc/wpac-display.class.php:137 ../inc-acc/wpac-display.class.php:143
+#: ../inc-acc/wpac-display.class.php:213 ../inc-acc/wpac-display.class.php:222
+#: ../inc-acc/wpac-functions.php:123
+msgid "Production"
+msgstr "Production"
+
+#: ../inc-acc/wpac-display.class.php:138
+msgid "Nb seasons"
+msgstr "Nb de saisons"
+
+#: ../inc-acc/wpac-display.class.php:139 ../inc-acc/wpac-display.class.php:214
+msgid "Creators"
+msgstr "Créateurs"
+
+#: ../inc-acc/wpac-display.class.php:142
+msgid "Movie title"
+msgstr "Titre du film"
+
+#: ../inc-acc/wpac-display.class.php:144 ../inc-acc/wpac-display.class.php:204
+#: ../inc-acc/wpac-functions.php:124
+msgid "Directors"
+msgstr "Réalisateurs"
+
+#: ../inc-acc/wpac-display.class.php:148 ../inc-acc/wpac-display.class.php:215
+#: ../inc-acc/wpac-display.class.php:223 ../inc-acc/wpac-functions.php:125
+msgid "Genre"
+msgstr "Genre"
+
+#: ../inc-acc/wpac-display.class.php:149 ../inc-acc/wpac-display.class.php:205
+#: ../inc-acc/wpac-display.class.php:216 ../inc-acc/wpac-display.class.php:224
+#: ../inc-acc/wpac-functions.php:128
+msgid "Cast:"
+msgstr "Distribution  : "
+
+#: ../inc-acc/wpac-display.class.php:152 ../inc-acc/wpac-display.class.php:154
+#: ../inc-acc/wpac-display.class.php:207 ../inc-acc/wpac-display.class.php:217
+#: ../inc-acc/wpac-display.class.php:225 ../inc-acc/wpac-display.class.php:258
+#: ../inc-acc/wpac-display.class.php:267 ../inc-acc/wpac-display.class.php:276
+msgid "Summary:"
+msgstr "Résumé  :"
+
+#: ../inc-acc/wpac-display.class.php:202
+msgid "Episode"
+msgstr "Episode"
+
+#: ../inc-acc/wpac-display.class.php:213
+msgid "season"
+msgstr "saison"
+
+#: ../inc-acc/wpac-display.class.php:213
+msgid "seasons"
+msgstr "saisons"
+
+#: ../inc-acc/wpac-display.class.php:255 ../inc-acc/wpac-display.class.php:273
+msgid "directed by"
+msgstr "réalisé par"
+
+#: ../inc-acc/wpac-display.class.php:255 ../inc-acc/wpac-display.class.php:264
+#: ../inc-acc/wpac-display.class.php:273
+msgid "in"
+msgstr "en"
+
+#: ../inc-acc/wpac-display.class.php:256 ../inc-acc/wpac-display.class.php:265
+#: ../inc-acc/wpac-display.class.php:274
+msgid "with"
+msgstr "avec"
+
+#: ../inc-acc/wpac-display.class.php:264
+msgid "created by"
+msgstr "créé par"
+
+#: ../inc-acc/wpac-display.class.php:266 ../inc-acc/wpac-display.class.php:275
+#: ../inc-acc/wpac-functions.php:125
+msgid "Genre:"
+msgstr "Genre :"
+
+#: ../inc-acc/wpac-functions.php:112 ../inc-acc/wpac-functions.php:113
+#: ../inc-acc/wpac-functions.php:114 ../inc-acc/wpac-functions.php:117
+#: ../inc-acc/wpac-functions.php:123 ../inc-acc/wpac-functions.php:124
+#: ../inc-acc/wpac-functions.php:125 ../inc-acc/wpac-functions.php:128
+msgid "Label:"
+msgstr "Libellé :"
+
+#: ../inc-acc/wpac-functions.php:112
+msgid "Summary: "
+msgstr "Résumé :"
+
+#: ../inc-acc/wpac-functions.php:112
+msgid "Long Summary"
+msgstr "Résumé Long"
+
+#: ../inc-acc/wpac-functions.php:113
+msgid "Short summary: "
+msgstr "Résumé Court :"
+
+#: ../inc-acc/wpac-functions.php:113
+msgid "Short Summary"
+msgstr "Résumé Court"
+
+#: ../inc-acc/wpac-functions.php:114
+msgid "Trailer: "
+msgstr "Trailer :"
+
+#: ../inc-acc/wpac-functions.php:114
+msgid "Trailer"
+msgstr "Trailer"
+
+#: ../inc-acc/wpac-functions.php:117
+msgid "Title"
+msgstr "Titre"
+
+#: ../inc-acc/wpac-functions.php:120
+msgid "Poster"
+msgstr "Affiche"
+
+#: ../inc-acc/wpac-functions.php:123
+msgid "Directed in"
+msgstr "Réalisé en"
+
+#: ../inc-acc/wpac-functions.php:124
+msgid "by"
+msgstr "par"
+
+#: ../inc-acc/wpac-functions.php:128
+msgid "Cast"
+msgstr "Distribution"
+
+#: ../wp-ac.php:225
+msgid "ID: "
+msgstr ""
+
+#: ../wp-ac.php:225
+msgid " - No data found"
+msgstr ""
+
+#: ../wp-ac.php:674
+msgid " on "
+msgstr "sur"
+
+#, fuzzy
+#~ msgid "Saison"
+#~ msgstr "Saison"
+
+#, fuzzy
+#~ msgid "saison"
+#~ msgstr "Saison"
+
+#, fuzzy
+#~ msgid " saisons"
+#~ msgstr "Nb de saisons"
